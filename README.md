@@ -1,3 +1,3 @@
 # demo
 first
-author - palak
+author - palak bhardwaj
